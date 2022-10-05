@@ -24,8 +24,6 @@
 
 [![Rohith's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RohithParahmesh&&theme=xcode)](https://github.com/RohithParahmesh)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohithParahmesh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rohithparahmesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohithParahmesh&show_icons=true&locale=en&theme=tokyonight" alt="RohithParahmesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohithParahmesh&&theme=tokyonight" alt="RohithParahmesh" /></p>
