@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on [**Pykitzoid**](https://github.com/IEEE-VIT/pykitzoid)
 
-- 🌱 I’m currently learning **Webdev**
-
-- 💬 Ask me about **ML**
+- 🌱 I’m currently learning **Appdev**
 
 - 📫 How to reach me **rohithparahmesh@gmail.com**
 
