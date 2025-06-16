@@ -10,28 +10,50 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently a student open to oppurtunities in the Data space .
+# 👋 Hi, I'm Rohith Parahmesh
 
-- :zap: In my free time, I watch Tech videos or workout.
+I'm a Machine Learning Engineer and full-stack developer from India 🇮🇳 with a deep interest in research, product building, and tackling real-world problems with AI.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohparahmesh/)
+- 🎓 B.Tech in Computer Science at VIT Vellore  
+- 💼 Currently working as an ML/Backend Developer  
+- 🔬 Interested in AI research — especially **physics-inspired AI**, **multimodal systems**, and **reasoning under uncertainty**
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>&nbsp;
-                        
-          
-</div>
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript/TypeScript, Go, SQL  
+- **ML/AI**: PyTorch, scikit-learn, HuggingFace, LangChain, Deepseek  
+- **Web Dev**: FastAPI, Node.js, React, Streamlit  
+- **Tools**: Docker, Git, VSCode, Postgres, Redis  
+- **Cloud**: AWS, GCP, Railway, Vercel
+
+---
+
+## 📌 Projects
+
+- **TwinIQ** – Real-time financial simulation platform for businesses  
+- **[AmbiQuery (WIP)]** – Lightweight system to detect and resolve ambiguous NL queries over tables  
+- **[Neural Physics Simulator (Coming soon)]** – A research-grade physics-inspired simulation system built from scratch  
+---
+
+## 📚 Currently Exploring
+
+- Neural simulators & physics-based learning  
+- Research internships in AI/ML (2025–2026)  
+- Chrome extensions & devtools that help researchers and engineers  
+- Building ML infrastructure for early-stage startups
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 [github.com/RohithParahmesh](https://github.com/RohithParahmesh)
+- 📫 [rohithparahmesh@gmail.com](mailto:rohithparahmesh@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohparahmesh)  
+- 🧠 Always open to research collabs, internships, and startup discussions!
+
+---
+
+> “Build boldly. Learn relentlessly. Stay curious.” 🚀
+
