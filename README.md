@@ -32,7 +32,7 @@ I'm a Machine Learning Engineer and full-stack developer from India 🇮🇳 wit
 
 ## 📌 Projects
 
-- **TwinIQ** – Real-time financial simulation platform for businesses  
+- **CryoStructNet** – Reconstructing 3D protein structures from 2D Cryo-Electron Microscopy
 - **[AmbiQuery (WIP)]** – Lightweight system to detect and resolve ambiguous NL queries over tables  
 - **[Neural Physics Simulator (Coming soon)]** – A research-grade physics-inspired simulation system built from scratch  
 ---
